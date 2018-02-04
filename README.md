@@ -35,5 +35,5 @@ Nutrello is your partner in good health. It will help you make the right choice 
 - Presentation: https://github.com/ankitaggarwal011/nutrello/raw/master/Nutrello.pptx
 
 ## Team
+- Shayan Ray (shayanray)
 - Ankit Aggarwal (ankitaggarwal011)
-- Shayan Ray (shayanraysbu)
