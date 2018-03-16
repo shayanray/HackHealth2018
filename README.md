@@ -29,11 +29,6 @@ Nutrello is your partner in good health. It will help you make the right choice 
 - Google Cloud Vision API (Food Detection)
 - USDA National Agricultural Library API (Nutrient Information)
 
-## Demo
-- Demo Link: https://hackhealth18.appspot.com
-- GitHub: https://github.com/ankitaggarwal011/nutrello
-- Presentation: https://github.com/ankitaggarwal011/nutrello/raw/master/Nutrello.pptx
-
 ## Team
 - Shayan Ray (shayanray)
 - Ankit Aggarwal (ankitaggarwal011)
